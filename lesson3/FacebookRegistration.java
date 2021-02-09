@@ -1,3 +1,7 @@
+//Найти все элементы нужные для выполнения регистрации на facebook.com. (Имя, Фамилия, Номер телефона, пароль, Дата рождения, пол, кнопка “создать аккаунт”).
+//тут у меня все плохо
+
+
 package lesson3;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
