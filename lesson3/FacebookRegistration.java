@@ -19,9 +19,5 @@ public class FacebookRegistration {
         for(WebElement element : elements)
             System.out.println(element.getText());
         driver.quit();
-
-
-
-
     }
 }
