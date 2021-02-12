@@ -23,5 +23,5 @@ public class SignNowLogin {
         System.out.println(element.getAttribute("a"));
         // System.out.println(driver.getTitle());
         // driver.quit();
-    }
+    } 
 }
