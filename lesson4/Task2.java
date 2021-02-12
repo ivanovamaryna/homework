@@ -15,7 +15,7 @@ public class Task2 {
             numbers[i]=input.nextInt();
         }
         int max = numbers[0];
-        int count = 0;
+        int count = 0; << Будет выводить неверное кол-во 
         for (int num : numbers) {
             if (num > max) {
                 max = num;
