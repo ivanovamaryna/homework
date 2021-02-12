@@ -2,8 +2,6 @@
 //int->char
 //float->char
 // float->char->int.
-
-
 package lesson2;
 
 public class TypesMatch {
