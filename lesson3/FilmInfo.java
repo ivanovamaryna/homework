@@ -1,7 +1,4 @@
 //Вывести в консоль список “Название фильма, рейтинг и ссылка на imdb” на фильм (Брать фильмы со страницы http://www.imdb.com/chart/top)
-
-
-
 package lesson3;
 
 import org.openqa.selenium.By;
